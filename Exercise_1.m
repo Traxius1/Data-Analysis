@@ -1,16 +1,10 @@
-% Emmanouil Savvakis, 9093
-% Ioannis Gkouzoumas, 9057
-
 clc
 clear
 
 % --- Introduction ---
-% Student Registry Number used is 9057. That means 9057 mod 156 = 9, plus 1
-% equals 10, which corresponds to Azerbaijan. We thought, as a team, that data
-% were insufficient. So, we decided that we should better choose
-% Austria, which is the previous country listed in the data set, and solve
-% the problem. The second graph in the link:
-% https://www.worldometers.info/coronavirus/country/austria/?fbclid=IwAR3EB2LWK_viMZEFs1o8mssKhRnXMY7NMu7g3ACIiPjTGeao4ntQGjzBXj4
+% The country assigned to our team is Austria.
+
+https://www.worldometers.info/coronavirus/country/austria/?fbclid=IwAR3EB2LWK_viMZEFs1o8mssKhRnXMY7NMu7g3ACIiPjTGeao4ntQGjzBXj4
 % shows Austria's number of cases relative to time. We thought that we
 % should define the starting of the First Wave where the curve rises
 % and the ending at the point that the curve maintains at a constant value.

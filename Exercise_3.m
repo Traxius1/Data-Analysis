@@ -1,6 +1,3 @@
-% Emmanouil Savvakis, 9093
-% Ioannis Gkouzoumas, 9057
-
 clc
 clear
 
