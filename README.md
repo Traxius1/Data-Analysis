@@ -1,7 +1,7 @@
 # Data-Analysis
 ### Project implemented for the needs of Data Analysis course
 
-This project includes a number of parts related to the Covid-19 pandemic. The data to be analysed are daily coronavirus cases and daily coronavirus related deaths. The data have been extracted from European Center for Disease Control (ECDC). The files Covid19Confirmed.xlsx and Covid19Deaths.xlsx have the values of daily new cases and deaths since the beginning of the pandemic, namely from 1/1/2020 to 13/12/2020. The first column is the name of the country, the second column is the continent to which it belongs, the third column is the population of the country and the remaining columns are the values for each day. 
+This project includes a number of parts related to the Covid-19 pandemic. The data to be analysed are daily coronavirus cases and daily coronavirus related deaths. The data have been extracted from European Center for Disease Control (ECDC). The files Covid19Confirmed and Covid19Deaths have the values of daily new cases and deaths since the beginning of the pandemic, namely from 1/1/2020 to 13/12/2020. The first column is the name of the country, the second column is the continent to which it belongs, the third column is the population of the country and the remaining columns are the values for each day. 
 The study will focus on the so-called first wave, i.e. the first spike and fall in the spread of coronavirus. The start and end time for the first wave is defined by the group according to criteria set by the group and may differ for daily cases and daily deaths.
 For some countries and days there may be negative values or no data. You can choose to fill them in with data from other sources or correct them with some other reasoned way.
 
